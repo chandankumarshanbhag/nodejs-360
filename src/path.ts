@@ -1,7 +1,7 @@
 import path from "path";
 
 // We can join paths together using the path.join() method.
-let file = path.join(__dirname, "..", "a.txt");
+let file = path.join(__dirname, "..","playground", "a.txt");
 
 path.dirname(file); // "C:\Users\user\Desktop\node-course\src"
 path.basename(file); // "a.txt"
