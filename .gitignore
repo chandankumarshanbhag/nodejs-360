@@ -41,5 +41,3 @@ dist/**/*
 # ignore yarn.lock
 yarn.lock
 ./dist
-
-a.txt

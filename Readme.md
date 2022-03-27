@@ -6,4 +6,6 @@
 - Http
 - Path
 - Events
+- OS
+- Streams
 - Adding more
