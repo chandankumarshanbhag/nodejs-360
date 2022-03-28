@@ -1,11 +1,13 @@
 # Nodejs 360
 ## This project contains examples of all the nodejs built-in APIs
 
-#### Topics covered
+#### APIs covered
 - Filesystem
 - Http
 - Path
 - Events
 - OS
-- Streams
+- Buffer
+- Stream
+- Error Handling
 - Adding more
