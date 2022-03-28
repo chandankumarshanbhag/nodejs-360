@@ -7,5 +7,7 @@
 - Path
 - Events
 - OS
-- Streams
+- Buffer
+- Stream
+- Error Handling
 - Adding more
